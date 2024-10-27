@@ -1,6 +1,6 @@
 package com.spring.java_spring.Controller;
 
-//coe sabrina corrije com carinho tmj
+//coe sabrina corrige com carinho tmj
 
 import com.spring.java_spring.Model.Pessoa;
 import org.springframework.stereotype.Controller;
